@@ -1,0 +1,1 @@
+This is an interactive Python program to encode plaintext and decode ciphertext the user inputs using various different ciphers, including the Affine cipher, Autokey cipher, and Vigenere cipher. Users can also choose to save the encoded/decoded text can be saved to a file. More ciphers may be included in the future!
